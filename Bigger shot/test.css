@@ -8,5 +8,5 @@ body {
         color: red;
     }
     footer {
-        background-image: image(https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Foriginal%2F000%2F038%2F396%2FScreen_Shot_2021-09-23_at_12.44.53_PM.png&sp=1639675198T4e9e0b1328138604c88a1f20102949b62ce94bf8bd019d1fe0aa7633989f0a00);
+        background-image: url("proxy-image.png");
     }
